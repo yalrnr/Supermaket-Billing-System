@@ -1,8 +1,8 @@
-# Supermarket-Billing-System, a c++ program for a Supermarket operations
+# Supermarket-Billing-System, a c++ program for supermarket operations
 
 
 
-## Types of End users-
+## Types of End users -
 
 1 - Administrator
 
@@ -16,7 +16,9 @@ Administrator : Add, modify or delete a product from the database
 
 Buyer : Buy the Items from the product's list available
 
+## Languages/Tools used :
 
+C++, VS Code
 
 ## Steps
 
@@ -30,7 +32,7 @@ Terminal. Choose the options as needed.
 
 
 
-## Info needed to run the above program as 'Administrator'!
+## Info needed to run the above program as 'Administrator' -
 
 Administrator's email : a
 
